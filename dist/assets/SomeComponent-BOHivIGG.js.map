@@ -1,0 +1,1 @@
+{"version":3,"file":"SomeComponent-BOHivIGG.js","sources":["../../src/components/SomeComponent.tsx"],"sourcesContent":["export default function SomeComponent() {\r\n  return <div>SomeComponent</div>;\r\n}"],"names":["SomeComponent","jsx","children"],"mappings":"6CAAA,SAAwBA,IACf,SAAAC,IAAC,OAAIC,SAAa,iBAC3B"}
